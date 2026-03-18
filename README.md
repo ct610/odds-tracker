@@ -1,2 +1,2 @@
 # odds-tracker
-odds tracker
+odds tracker. :3
